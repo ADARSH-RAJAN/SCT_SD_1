@@ -1,3 +1,4 @@
+
 # Temperature Converter
 
 ## Overview
@@ -13,6 +14,8 @@ Kelvin (K)
 
 
 The program accepts user input, performs the appropriate conversion using standard mathematical formulas, and displays the converted temperature accurately.
+
+<img width="1017" height="699" alt="1" src="https://github.com/user-attachments/assets/6a5e37bd-01ac-48f0-9fa6-0a8c8cb10ee7" />
 
 ## Equations:
 
